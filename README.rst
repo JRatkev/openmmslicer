@@ -24,6 +24,10 @@ Full docstring documentation can be found `here <https://openmmslicer.readthedoc
 There are also a few `examples <https://openmmslicer.readthedocs.io/en/latest/Examples.html>`_ which you can run to
 see how OpenMMSLICER works.
 
+Contact
+---------------
+If you have any problems or questions, please send an email to Justina Ratkeviciute at ``<jr1u18@soton.ac.uk>``.
+
 References
 ---------------
 1. \M. Suruzhon, M. S. Bodnarchuk, A. Ciancetta, I. D. Wall, and J. W. Essex, “Enhancing ligand and protein sampling using sequential Monte Carlo,” *J. Chem. Theory Comput.* 18, 3894–3910 (2022), DOI:https://doi.org/10.1021/acs.jctc.1c01198
