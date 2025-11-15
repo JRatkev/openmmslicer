@@ -15,6 +15,7 @@ dependencies:
   - setuptools=66.0.0
   - openmmtools=0.22.1
   - pandas=2.0.1
+  - matplotlib-base=3.7.1
   - pip:
     - cached-property==1.5.2
     - cachetools==5.3.1
