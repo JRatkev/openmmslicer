@@ -1,5 +1,6 @@
 channels:
   - conda-forge
+  - omnia
 dependencies:
   - python
   - openmm
