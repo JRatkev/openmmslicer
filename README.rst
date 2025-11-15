@@ -5,7 +5,7 @@ About
 -----
 
 OpenMMSLICER (Sequential LIgand Conformational ExploreR) is a Python library which uses OpenMM to perform Fully Adaptive Simulated Tempering (FAST) simulations to enhance the sampling of specific degrees of freedom using an alchemical approach. 
-FAST combines adaptive alchemical sequential Monte Carlo (AASMC) and a variation of the irreversible simulated tempering algorithm (IST) to continuously optimizes the number, parameters, and weights of intermediate distributions.
+FAST combines adaptive alchemical sequential Monte Carlo (AASMC) with a variation of the irreversible simulated tempering algorithm (IST) that continuously optimizes the number, parameters, and weights of intermediate distributions.
 
 Installation
 ------------
