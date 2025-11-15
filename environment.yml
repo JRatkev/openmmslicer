@@ -5,8 +5,6 @@ channels:
 dependencies:
   - python
   - setuptools
-  - openmm >= 7.3
-  - openmmtools
   - numpy
   - scipy
   - mdtraj
