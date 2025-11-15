@@ -1,7 +1,26 @@
-name: openmmslicer
+name: docs
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python
+  - pip
+  - sphinx
+  - sphinx_rtd_theme
+  - mdtraj
+  - numba
+  - numpy
+  - openmm
+  - scipy
+  - setuptools
+  - openmmtools
+  - pandas
+  - pip:
+    - cached-property
+    - cachetools
+    - cma
+    - dill
+    - stdio-proxy
+  
 
 
