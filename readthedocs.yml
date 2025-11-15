@@ -21,7 +21,7 @@ sphinx:
 
 conda:
   environment: environment.yml
-  
+  fail_on_warning: false
 python:
   install:
     - requirements: requirements.txt
