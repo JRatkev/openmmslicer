@@ -1,8 +1,21 @@
-name: base
+name: openmmslicer
 channels:
   - conda-forge
   - omnia
 dependencies:
   - python
-  - openmm
+  - setuptools
+  - openmm >= 7.3
   - openmmtools
+  - numpy
+  - scipy
+  - mdtraj
+  - pandas
+  - numba
+  - pip:
+      - cached-property
+      - cachetools
+      - cma
+      - dill
+      - stdio-proxy
+
