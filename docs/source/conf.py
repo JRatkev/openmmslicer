@@ -48,7 +48,7 @@ extensions = [
 ]
 
 autodoc_default_flags = ['members']
-autodoc_mock_imports = ["mdtraj", "numpy", "openmm", "openmmtools", "scipy", "dill", "cachetools", "cached_property", "pandas", "cma", "stdio_proxy", "numba"]
+#autodoc_mock_imports = ["mdtraj", "numpy", "openmm", "openmmtools", "scipy", "dill", "cachetools", "cached_property", "pandas", "cma", "stdio_proxy", "numba"]
 autosummary_generate = True
 
 # Add any paths that contain templates here, relative to this directory.
